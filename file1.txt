@@ -1,2 +1,6 @@
 This is a local file
+<<<<<<< HEAD
 All code is clear
+=======
+All code is clear
+>>>>>>> newFeature
