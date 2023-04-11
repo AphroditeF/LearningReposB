@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Messing code
+=======
+This is a local file
+All code is clear
+>>>>>>> 31b8722 ( Updated file1.txt)
